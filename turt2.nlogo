@@ -132,17 +132,17 @@ HORIZONTAL
 @#$#@#$#@
 ## WHAT IS IT?
 
-This shows how to make turtles move along a perfect circle. The first procedure moves turtles based a user-defined distance to be travelled; the second moves then based on a user-defined degree measure.
+(a general understanding of what the model is trying to show or explain)
 
 ## HOW IT WORKS
 
-We use trigonometry to calculate the turtle's successive positions on the circle.
+(what rules the agents use to create the overall behavior of the model)
+
 
 ## RELATED MODELS
 
-Turtles Circling
+(models in the NetLogo Models Library and elsewhere which are of related interest)
 
-<!-- 2007 -->
 @#$#@#$#@
 default
 true
